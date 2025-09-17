@@ -6,9 +6,9 @@
 import os
 print(os.system('clear'))
 
-n1 = [4,6,7,8,0,3]
-n2 = [1,6,3,0,12,11]
-valores = n1 + n2
+# n1 = [4,6,7,8,0,3]
+# n2 = [1,6,3,0,12,11]
+# valores = n1 + n2
 # print(valores)
 # print(type(valores))
 # print(valores[0])
@@ -43,9 +43,46 @@ valores = n1 + n2
 # print(17 in valores)
 
 #planetas = list()   # cria uma lista vazia | equivale planetas = []
-planetas = ['Mercurio', 'Vênus', 'Marte', 'Saturno', 'Urano', 'Netuno']
-for planeta in planetas:    # planeta é uma variável de interação
-    print(planeta)
+# planetas = ['Mercurio', 'Vênus', 'Marte', 'Saturno', 'Urano', 'Netuno']
+# for planeta in planetas:    # planeta é uma variável de interação
+#     print(planeta)
+'''
+Exercício
+
+Crie um script que peça para o usuário digitar o nome de 5 bebidas
+favoritas dele, armazenando esses valores em uma lista.
+
+Na sequência, exiba na tela os elementos da lista em ordem alfabética,
+um por linha, usando um laço de repetição for.
+'''
+
+# print('Digite suas 5 bebidas favoritas')
+# bebidas = []
+# for i in range(5):
+#     print(f'Bebida {i+1}')
+#     b = input('Digite o nome de uma bebida: ')
+#     bebidas.append(b)
+
+# bebidas.sort()
+# print('Listar as bebidas em ordem alfabética:')
+# for bebida in bebidas:
+#     print(bebida)
+
+# programa do Professor Fábio dos Reis
+bebidas = []
+for i in range(5):
+    print(f'Digite uma bebida favorita:')
+    bebida = input()
+    bebidas.append (bebida)
+
+bebidas.sort()
+
+print(f'\nBebidas escolhidas: ')
+for bebida in bebidas:
+    print(bebida)
+print(f'\nSaúde! ')
+
+
 
 
 
