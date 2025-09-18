@@ -1,0 +1,250 @@
+CURSO COMPLETO DE PYTHON - DO ZERO AO AVANÇADO MASTERCLASS
+Bóson Treinamentos
+5 de dez. de 2023
+https://youtu.be/-VeVq64Fgw0?si=WYyx5sy_u_ZxxUtS
+
+Neste curso de Python completo você aprenderá a linguagem desde o básico - download e instalação das ferramentas - até o nível avançado, incluindo trabalho com classes e objetos, manipulação de arquivos, funções especiais, manipulação de strings e muito mais.
+
+00:00:00 Apresentação do Curso
+00:00:50 Introdução ao Python e suas aplicações
+00:11:33 Instalação do Python e editor VS Code e teste
+00:29:35 Editores de Código e IDEs alternativos
+00:39:46 Variáveis e Tipos de Dados
+01:00:07 Operadores Aritméticos
+01:12:34 Operadores de Comparação
+01:24:33 Operadores Lógicos AND, OR, NOT
+01:35:57 Desvios Condicionais - if, elif, else
+01:52:02 Saída de dados com função print, format e f-strings
+02:10:43 Laço de Repetição While
+02:24:22 Laço de repetição for e função range
+02:39:41 Encadeamento de Laços de Repetição
+02:46:23 Import de módulos e gerenciamento de pacotes com pip
+03:09:35 Números aleatórios com módulo random
+03:25:19 Listas
+03:46:40 Tuplas
+04:00:05 Funções matemáticas built-In e o módulo Math
+04:10:37 Manipulação de Strings
+04:36:24 Dicionários
+04:51:23 Sets
+05:05:12 Funções em Python - Introdução
+05:25:14 Parâmetros opcionais, obrigatórios e valor padrão
+05:37:04 Escopos de Variáveis - Global e Local
+05:48:17 Manipulação de Exceções - Tratamento de Erros
+06:13:02 Funções Recursivas
+06:25:58 Funções lambda, map, filter, reduce
+06:50:10 Compreensões de Lista
+07:03:31 Classes, Objetos, Métodos, Atributos, Herança - POO em Python
+07:35:30 Gerenciamento de pastas e arquivos do sistema com módulo os
+08:07:44 Manipulação de Arquivos de Texto - Leitura e Escrita
+08:34:37 Outras técnicas - generators, enumerate, with, operador ternário
+08:55:18 Encerramento
+
+----------
+21/02/2024
+
+-----------------------------------------------
+00:29:35 Editores de Código e IDEs alternativos
+
+https://www.onlinegdb.com
+
+----------
+12/02/2025
+
+teste.py
+
+----------
+22/07/2925
+
+pip | gerenciador de pacotes do Python
+
+-----------------------------------
+00:39:46 Variáveis e Tipos de Dados
+
+variaveis.py
+
+----------
+23/07/2025
+
+CTRL + K + C para comentar todas as linhas selecionadas no Vscode
+CTRL + K + U para descomentar todas as linhas selecionadas no Vscode
+
+-------------------------------
+01:00:07 Operadores Aritméticos
+
+operadores-aritmeticos.py
+
+REPL
+Read-Eval-Print Loop
+
+
+Digitar na linha de comando do terminal: python3
+
+/ Divisão real
+// Divisão inteira
+% Módulo (MOD)
+** Potenciação
+
+Casting | conversão de tipo de dado
+
+---------------------------------
+01:12:34 Operadores de Comparação
+
+----------
+27/07/2025
+
+operadores-comparacao.py
+
+== Igual a 
+!= Diferente de 
+
+----------------------------------------
+01:24:33 Operadores Lógicos AND, OR, NOT
+
+----------
+07/09/2025
+
+operadores-logicos.py
+
+----------
+08/09/2025
+
+----------------------------------------------
+01:35:57 Desvios Condicionais - if, elif, else
+
+condicionais.py
+
+----------
+09/09/2025
+
+----------------------------------------------
+01:52:02 Saída de dados com função print, format e f-strings
+
+print.py
+
+----------
+10/09/2025
+
+----------------------------------------------
+02:10:43 Laço de Repetição While
+
+while.py
+
+----------
+11/09/2025
+
+----------------------------------------------
+02:24:22 Laço de repetição for e função range
+
+for.py
+
+# range(valor _inicial, valor_final, incremento)|
+
+----------
+12/09/2025
+
+-------------------------------------------
+02:39:41 Encadeamento de Laços de Repetição
+
+lacos_encadeados.py
+
+----------
+13/09/2025
+
+----------------------------------------------
+02:46:23 Import de módulos e gerenciamento de pacotes com pip
+
+https://pypi.org
+O Python Package Index (PyPI) é um repositório de software para a linguagem de programação Python.
+
+python --version
+Python 3.10.12
+
+python3 -m pip list
+pip 22.0.2 | versão anterior
+python3 -m pip install --upgrade pip
+Installing collected packages: pip
+Successfully installed pip-25.2
+pip 25.2 | versão atual
+
+python3 -m pip install matplotlib
+Successfully installed contourpy-1.3.2 cycler-0.12.1 fonttools-4.59.2 kiwisolver-1.4.9 matplotlib-3.10.6 numpy-2.2.6 python-dateutil-2.9.0.post0
+
+python3 -m pip show matplotlib
+
+python3 -m pip uninstall <nome do pacote>
+
+----------
+18/09/2025
+
+
+-------------------------------------------------------------
+UDEMY | 17. Gerenciamento de Ambientes Virtuais com módulo virtualenv
+
+https://virtualenv.pypa.io/en/latest/
+
+
+==============================
+*STOP 18:54  18/09/2025 01:06
+
+
+
+----------
+14/09/2025
+
+----------------------------------------------
+03:09:35 Números aleatórios com módulo random
+
+aleatorios.py
+
+----------
+15/09/2025
+
+----------------------------------------------
+03:25:19 Listas
+
+lista.py
+
+Em outras liguagem a lista do Python equivale ao arrays e matrizes.
+
+docs.python.org
+
+----------
+16/09/2025
+
+----------------------------------------------
+03:46:40 Tuplas
+
+tuplas.py
+
+----------------------------------------------
+04:00:05 Funções matemáticas built-In e o módulo Math
+
+
+
+
+==============================
+*STOP 4:00:06 17/09/2025 15:43
+
+
+
+
+
+
+------------------------------------------------------------
+Curso Completo de Python - do Zero ao Avançado (Masterclass)
+
+Material de estudo do curso de Python - Bóson Treinamentos
+
+Estes são os conteúdos sobre Python abordados na aula do Bosón Treinamentos. O vídeo tem a duração de 8 horas, 56 minutos e 48 segundos. Ele aborda diversos temas sobre Python, incluindo manipulação de strings, funções, bibliotecas, dicionários, listas, tuplas, laços de repetição, entre outros. 
+
+Curso de 8h de Python ministrado no YouTube pela Bóson Treinamentos
+
+Arquivos criados para estudo do curso de Python ministrado no YouTube pela Bóson Treinamentos. O vídeo tem a duração de 8 horas, 56 minutos e 47 segundos. Ele aborda diversos temas sobre Python, incluindo manipulação de strings, funções, bibliotecas, dicionários, listas, tuplas, laços de repetição, entre outros. Título do Curso: Curso Completo de Python - do Zero ao Avançado (Masterclass) 
+------------------------------------------------------------
+
+
+
+Tags:
+  estudo_python
+
+
