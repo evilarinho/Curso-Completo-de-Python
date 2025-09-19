@@ -1,5 +1,5 @@
 import os 
-print(os.system('clear'))
+os.system('clear')
 
 # São imutáveis
 

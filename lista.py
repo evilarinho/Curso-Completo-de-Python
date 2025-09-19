@@ -4,7 +4,7 @@
 # notas = [5,7,8,6,9]
 # print(notas)
 import os
-print(os.system('clear'))
+os.system('clear')
 
 # n1 = [4,6,7,8,0,3]
 # n2 = [1,6,3,0,12,11]

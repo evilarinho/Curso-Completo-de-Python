@@ -197,6 +197,21 @@ https://virtualenv.pypa.io/en/latest/
 aleatorios.py
 
 ----------
+19/09/2025
+
+----------------------------------------------
+UDEMY | 19. Mini-Projeto - Jogo de Adivinhação
+
+O programa deve gerar um número aleatório entre 1 e 15, e pedir para o usuário adivinhar o número gerado.
+Se a tentativa do usuário não for correta, o programa deve informar se ele tentou um valor baixo ou alto,
+comparando com o valor gerado.
+Se o usuário acertar, exibir a msg 'Parabéns, você acertou!"
+O programa deve permitir até 3 tentativas por jogo.
+A tecla s permite iniciar um novo jogo.
+
+jogo_adivinha.py
+
+----------
 15/09/2025
 
 ----------------------------------------------
@@ -218,6 +233,9 @@ tuplas.py
 
 ----------------------------------------------
 04:00:05 Funções matemáticas built-In e o módulo Math
+
+--------------------------------------------------------
+UDEMY | 22. Funções matemáticas built-In e o módulo Math
 
 
 
