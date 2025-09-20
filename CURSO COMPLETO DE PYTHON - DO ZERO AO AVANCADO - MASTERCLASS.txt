@@ -237,7 +237,7 @@ tuplas.py
 --------------------------------------------------------
 UDEMY | 22. Funções matemáticas built-In e o módulo Math
 
-
+matematica.py
 
 
 ==============================

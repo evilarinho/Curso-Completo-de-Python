@@ -22,7 +22,7 @@ while novo_jogo == 's':
             print(f'Número alto')
         else:
             print(f'Número baixo')
-# Caso não tenha acertado, revelar o número secreto
+    # Caso não tenha acertado, revelar o número secreto
     if chute != num:
         print(f'\nO número secreto era o {num}')
 
