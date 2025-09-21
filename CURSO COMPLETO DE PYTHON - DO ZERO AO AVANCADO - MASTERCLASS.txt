@@ -234,19 +234,100 @@ tuplas.py
 ----------------------------------------------
 04:00:05 Funções matemáticas built-In e o módulo Math
 
+----------
+19/09/2025
+
 --------------------------------------------------------
 UDEMY | 22. Funções matemáticas built-In e o módulo Math
 
 matematica.py
 
+----------
+20/09/2025
+
+UDEMY | 23.  Data e Hora em Python - Módulos datetime e time
+
+Comandos no terminal
+
+# entrar no Python
+python3
+import datetime
+datetime.MINYEAR
+1
+datetime.MAXYEAR
+9999
+>>> datetime.date(2025,09,20)
+  File "<stdin>", line 1
+    datetime.date(2025,09,20)
+                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+>>> datetime.date(2025,9,20)
+datetime.date(2025, 9, 20)
+>>> data = datetime.date(2025,9,20)
+>>> print(data)
+2025-09-20
+data.year
+data.day
+date.month
+>>> datetime.date.today()
+datetime.date(2023, 12, 11)
+>>> print(datetime.date.today())
+2025-09-20
+print(datetime.date.min)
+0001-01-01
+print(datetime.date.max)
+9999-12-31
+print(datetime.datetime.now())
+2023-12-11 09:31:04.738225
+print(datetime.datetime.today())
+2023-12-11 09:31:36.707818
+»>› data_completa = datetime. datetime (2023, 11, 1, 13, 15, 55)
+››› print(data_completa)
+2023-11-01 13:15:55
+>>› print(data_completa.month)
+11
+››› print(data_completa.hour)
+13
+>>>
+>>> agora = datetime.datetime.today()
+>>> print(agora)
+2025-09-21 00:13:19.092328
+>>> print(agora.strftime("%d/%d/%Y"))
+21/21/2025
+>>> print(agora.strftime("%d/%d/%y"))
+21/21/25
+>>> print(agora.strftime("%H:%M:%S"))
+00:13:19
+>>> 
+
+https://docs.python.org/3/library/datetime.html
+
+>>> hoje = datetime.datetime.now()
+>>> festa = datetime.datetime(2025,10,1,18,00)
+>>> dias = festa - hoje
+>>> type(dias)
+<class 'datetime.timedelta'>
+>>> print(f'Fatam {dias.days} para a festa.')
+Fatam 10 para a festa.
+>>> dias.seconds
+62652
+
 
 ==============================
+UDEMY
+*STOP 12:06 21/09/2025 00:41
+
+
+
+
+
+
+
+
+
+==============================
+YOUTUBE
 *STOP 4:00:06 17/09/2025 15:43
-
-
-
-
-
 
 ------------------------------------------------------------
 Curso Completo de Python - do Zero ao Avançado (Masterclass)
