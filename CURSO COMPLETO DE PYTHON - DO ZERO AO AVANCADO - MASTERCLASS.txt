@@ -245,12 +245,16 @@ matematica.py
 ----------
 20/09/2025
 
+------------------------------------------------------------
 UDEMY | 23.  Data e Hora em Python - Módulos datetime e time
+
+
+data_e_hora.py
 
 Comandos no terminal
 
 # entrar no Python
-python3
+python3 
 import datetime
 datetime.MINYEAR
 1
@@ -311,6 +315,52 @@ https://docs.python.org/3/library/datetime.html
 Fatam 10 para a festa.
 >>> dias.seconds
 62652
+
+----------
+21/09/2025
+
+from datetime import datetime, timedelta
+delta_days = timedelta(days=5)
+print(delta_days.days)
+5   # é cinco dias e é diferente de um simples número cinco
+delta_horas = timedelta(hours=2)
+agora = datetime.now()
+vencimento = agora + timedelta(days=42)
+>>> print(vencimento)
+2025-11-02 19:17:58.567250
+print(f'O boleto vence em {vencimento.strftime("%d/%m/%Y")}')
+O boleto vence em 02/11/2025
+
+import time
+print(time.gmtime())
+time.struct_time(tm_year=2025, tm_mon=9, tm_mday=21, tm_hour=22, tm_min=27, tm_sec=5, tm_wday=6, tm_yday=264, tm_isdst=0)
+>>> print(time.gmtime(0))
+time.struct_time(tm_year=1970, tm_mon=1, tm_mday=1, tm_hour=0, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=1, tm_isdst=0)
+hora = time.strftime("%H:%M:%S", time.localtime())
+print(hora)
+19:30:38
+# para imprimir a quantidade de segundos desde a contagem inicial do sistema em 01/01/1970 00:00:00 
+print(time.time())
+1758494056.9189494
+# Para trabalhar com bando de dados é recomendado armazenar data e hora utilziando esse formato mais preciso
+segundos = time.ctime(1702299273)
+print(f'Data: {segundos}')
+Data: Mon Dec 11 09:54:33 2023
+
+----------
+23/09/2025
+
+----------------------------------
+UDEMY | 24. Manipulação de Strings
+
+strings.py
+
+# Mais sobre manipulação de strings em Python:   
+# https://docs.python.org/pt-br/3/library/string.html
+
+-----------------------
+UDEMY | 25. Dicionários
+
 
 
 ==============================
