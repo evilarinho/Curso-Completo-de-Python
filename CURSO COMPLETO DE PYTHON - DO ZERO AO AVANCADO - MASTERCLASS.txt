@@ -358,8 +358,13 @@ strings.py
 # Mais sobre manipulação de strings em Python:   
 # https://docs.python.org/pt-br/3/library/string.html
 
+----------
+25/09/2025
+
 -----------------------
 UDEMY | 25. Dicionários
+
+dicionarios.py
 
 
 
