@@ -73,7 +73,7 @@ bebidas = []
 for i in range(5):
     print(f'Digite uma bebida favorita:')
     bebida = input()
-    bebidas.append (bebida)
+    bebidas.append(bebida)
 
 bebidas.sort()
 

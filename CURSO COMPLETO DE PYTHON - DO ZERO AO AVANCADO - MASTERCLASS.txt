@@ -366,6 +366,21 @@ UDEMY | 25. Dicionários
 
 dicionarios.py
 
+----------
+27/09/2025
+
+-----------------------
+UDEMY | 26. Sets (Conjuntos)
+
+sets.py
+
+
+----------
+28/09/2025
+
+-----------------------
+UDEMY | 27. Funções em Python - Introdução
+
 
 
 ==============================

@@ -34,7 +34,7 @@ elemento['periodo'] = 1
 # print(elemento)
 # NameError: name 'elemento' is not defined
 
-# print(elemento.items())
+#print(elemento.items())
 # for i in elemento.items():
 #     print(i)
 
@@ -46,8 +46,15 @@ elemento['periodo'] = 1
 # for i in elemento.values():
 #     print(i)
 
-for i, j in elemento.items():
-    print(f'{i}: {j}')
+# for i, j in elemento.items():
+#     print(f'{i}: {j}')
 
-     
+#Aqui vai outro exemplo mais complexo: uma lista de dicionários
+#que poderia representar produtos de um site de E-commerce:
+produtos = [
+    {'id': '2810', 'tipo': 'forno', 'ano': 2020},
+    {'id': '9812', 'tipo': 'celular', 'ano': 2019},
+    {'id': '7756', 'tipo': 'geladeira', 'ano': 2022}
+]     
+print(produtos)
 
