@@ -386,6 +386,14 @@ funcoes.py
 -----------------------
 UDEMY | 28. Funções - Parâmetros opcionais, obrigatórios e valor padrão
 
+funcoes.py | linha 53
+
+==========
+29/09/2025
+
+-----------------------
+UDEMY | 29. Escopos de Variáveis - Global e Local
+
 
 ==============================
 UDEMY
