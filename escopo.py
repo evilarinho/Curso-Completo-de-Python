@@ -5,6 +5,8 @@ os.system('clear')
 
 var_global = 'Curso Completo de Python'
 def escreve_texto():
+    global var_global
+    var_global = 'Banco de Dados com SQL'
     var_local = 'Fábio dos Reis'
     print(f'Variável Global: {var_global}')
     print(f'Variável Local: {var_local}')
