@@ -401,10 +401,17 @@ escopo.py
 UDEMY | 30. Manipulação de Exceções - Tratamento de Erros
 
 excecoes.py
+excecoes_raise.py
+
+-----------------------
+UDEMY | 31. Projeto - Cálculo de Raízes de Equação de Segundo Grau
+
+
+
 
 ==============================
 UDEMY
-*STOP 14:22 03/10/2025 23:25
+*STOP 00:14 12/10/2025 00:21
 
 
 
