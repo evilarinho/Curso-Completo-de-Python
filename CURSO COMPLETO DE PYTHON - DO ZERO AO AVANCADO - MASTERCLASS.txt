@@ -415,16 +415,20 @@ UDEMY | 31. Projeto - Cálculo de Raízes de Equação de Segundo Grau
 
 raizes.py
 
+----------
+17/10/2025
+
 -----------------------
 UDEMY | 32. Funções Recursivas (Recursividade)
 
+recursividade.py
 
-
+s
 
 
 ==============================
 UDEMY
-*STOP 00:14 12/10/2025 00:21
+*STOP 08:00 18/10/2025 00:12
 
 
 
