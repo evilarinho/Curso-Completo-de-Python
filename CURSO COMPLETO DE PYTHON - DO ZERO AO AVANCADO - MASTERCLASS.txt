@@ -416,14 +416,19 @@ UDEMY | 31. Projeto - Cálculo de Raízes de Equação de Segundo Grau
 raizes.py
 
 ----------
-17/10/2025
+18/10/2025
 
 -----------------------
 UDEMY | 32. Funções Recursivas (Recursividade)
 
 recursividade.py
 
-s
+fibonacci.py
+
+-----------------------
+UDEMY | 33. Exercício Resolvido - Fibonacci Recursivo
+
+fibonacci.py
 
 
 ==============================
