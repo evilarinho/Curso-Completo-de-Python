@@ -42,6 +42,10 @@ Neste curso de Python completo você aprenderá a linguagem desde o básico - do
 ----------
 21/02/2024
 
+=====================================
+SEÇÃO 1: INTRODUÇÃO
+Concluído: OK
+
 -----------------------------------------------
 00:29:35 Editores de Código e IDEs alternativos
 
@@ -56,6 +60,10 @@ teste.py
 22/07/2925
 
 pip | gerenciador de pacotes do Python
+
+=====================================
+SEÇÃO 2: BÁSICO DA LINGUAGEM
+Concluído:
 
 -----------------------------------
 00:39:46 Variáveis e Tipos de Dados
@@ -105,6 +113,10 @@ operadores-comparacao.py
 
 operadores-logicos.py
 
+=====================================
+SEÇÃO 3: ESTRUTURAS DE CONTROLE NO PYTHON
+Concluído:
+
 ----------
 08/09/2025
 
@@ -150,6 +162,11 @@ lacos_encadeados.py
 ----------
 13/09/2025
 
+
+=====================================
+SEÇÃO 4: MÓDULOS E ESTRUTURA DE DADOS BÁSICAS
+Concluído:
+
 ----------------------------------------------
 02:46:23 Import de módulos e gerenciamento de pacotes com pip
 
@@ -181,11 +198,6 @@ python3 -m pip uninstall <nome do pacote>
 UDEMY | 17. Gerenciamento de Ambientes Virtuais com módulo virtualenv
 
 https://virtualenv.pypa.io/en/latest/
-
-
-==============================
-*STOP 18:54  18/09/2025 01:06
-
 
 
 ----------
@@ -378,6 +390,10 @@ sets.py
 ----------
 28/09/2025
 
+=====================================
+SEÇÃO 5: FUNÇÕES EM PYTHON
+Concluído:
+
 -----------------------
 UDEMY | 27. Funções em Python - Introdução
 
@@ -425,15 +441,51 @@ recursividade.py
 
 fibonacci.py
 
+----------
+19/10/2025
+
 -----------------------
 UDEMY | 33. Exercício Resolvido - Fibonacci Recursivo
 
 fibonacci.py
+fibonacci_2.py
+fibonacci_3_cache.py
+fibonacci_4_exponenciacao_matrizes.py
+
+-----------------------
+UDEMY | Teste 3: Teste seus Conhecimentos
+
+Acertos: 5/5
+
+=====================================
+SEÇÃO 6: RECURSOS AVANÇADOS DO PYTHON
+Concluído:
+
+----------
+23/10/2025
+
+-----------------------
+UDEMY | 34. Funções especiais - lambda, map, filter, reduce
+
+funcoes_especiais.py
+
 
 
 ==============================
 UDEMY
-*STOP 08:00 18/10/2025 00:12
+*STOP 08:04 24/10/2025 00:16
+
+
+=====================================
+SEÇÃO 7: GRAFICOS BÁSICOS COM MODULO MATPLOTLIB
+Concluído:
+
+
+=====================================
+SEÇÃO 8: FINBALIZAÇÃO DO CURSO
+Concluído:
+
+
 
 
 
